@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/MyGameEngie/BattleSity/build22/cmake_install.cmake",
+		"C:/MyGameEngie/BattleSity/build22/external/glfw/cmake_install.cmake",
+		"C:/MyGameEngie/BattleSity/build22/external/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
