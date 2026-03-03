@@ -1,6 +1,0 @@
-C:/MyGameEngie/BattleSity/build22/CMakeFiles/BattleSity.dir
-C:/MyGameEngie/BattleSity/build22/CMakeFiles/ALL_BUILD.dir
-C:/MyGameEngie/BattleSity/build22/CMakeFiles/ZERO_CHECK.dir
-C:/MyGameEngie/BattleSity/build22/external/glfw/CMakeFiles/ALL_BUILD.dir
-C:/MyGameEngie/BattleSity/build22/external/glfw/src/CMakeFiles/glfw.dir
-C:/MyGameEngie/BattleSity/build22/external/glfw/src/CMakeFiles/update_mappings.dir
